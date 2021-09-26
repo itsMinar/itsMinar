@@ -1,6 +1,6 @@
 ## Hi there 👋, it's Minar
-### I am a Web Developer
-I'm a Passionate Front-End Developer.
+
+A Passionate Front-End Developer.
 
 - 🌱 I’m currently learning React JS 
 - 📫 How to reach me: minarmunshi46@gmail.com 
