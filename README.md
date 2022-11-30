@@ -24,8 +24,8 @@
 
 ## ⚙️&nbsp;GitHub Analytics
 
-![itsminar's Stats](https://github-readme-stats.vercel.app/api?username=itsminar&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![itsMinar's Stats](https://github-readme-stats.vercel.app/api?username=itsMinar&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![itsminar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsminar&theme=darcula&hide_border=true)
+![itsMinar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsMinar&theme=darcula&hide_border=true)
 
-![itsminar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsminar&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![itsMinar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMinar&theme=darcula&show_icons=true&hide_border=true&layout=compact)
