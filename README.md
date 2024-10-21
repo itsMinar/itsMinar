@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Glad to see you.</h1>
-<h3 align="center">A Passionate Front-End focused MERN Stack Developer</h3>
+<h3 align="center">A Passionate Front-End focused Full Stack Developer</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=square&logo=typescript&logoColor=white)
