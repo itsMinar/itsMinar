@@ -13,9 +13,7 @@
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/its_Minar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/itsMinar)
 
-<br/>
-
-<img src="https://visitcount.itsvg.in/api?id=itsMinar&icon=0&color=0" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=itsMinar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> -->
 
 ---
 
